@@ -1,9 +1,9 @@
 # BigDataBandits-store-price-predictions
 
-#Project Background
+## Project Background
 
 
 
-#Key Details
+## Key Details
 
 
