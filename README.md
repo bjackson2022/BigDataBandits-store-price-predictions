@@ -7,6 +7,10 @@
 ## Key Details
 
 
+## Pre-Requisites
+- Python Libraries
+
+
 ### Team Members
 
 - Brandyn Jackson
