@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/bjackson2022/BigDataBandits-store-price-predictions/main/images/Sales%20Forecasting%20image.jpg" width=50% height=50%>
 
+<img src="https://raw.githubusercontent.com/bjackson2022/BigDataBandits-store-price-predictions/main/images/area-comercial-1.jpg" width=50% height=50%>
+
+
+
 ## Introduction - It's all in the data!!
 Having more robust sales forecasting models have become increasingly important within today's businesses in order for them to properly plan and make more informed, data-driven decisions for their future sales, profitability and resourcing goals throughout the current and future years. Through analyzing past sales data inputs, current market trends and other relevant factors, businesses can forecast their future sales and adjust their company strategies accordingly. 
 
