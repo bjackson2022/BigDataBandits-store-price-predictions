@@ -7,8 +7,8 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/bjackson2022/BigDataBandits-store-price-predictions/main/images/Sales%20Forecasting%20image.jpg" width="500" height="400"></td>
-    <td><img src="https://raw.githubusercontent.com/bjackson2022/BigDataBandits-store-price-predictions/main/images/area-comercial-1.jpg" width="500" height="400"></td>
+    <td><img src="https://raw.githubusercontent.com/bjackson2022/BigDataBandits-store-price-predictions/main/images/Sales%20Forecasting%20image.jpg" width="550" height="400"></td>
+    <td><img src="https://raw.githubusercontent.com/bjackson2022/BigDataBandits-store-price-predictions/main/images/area-comercial-1.jpg" width="550" height="400"></td>
   </tr>
 </table>
 
