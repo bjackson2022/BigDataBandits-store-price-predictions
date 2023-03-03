@@ -37,10 +37,11 @@ was tasked with building a machine learning model that predicts the unit sales f
 - Tanner Horton
 - Victor Pang
 
-- [LinkedIn Profile 1](https://www.linkedin.com/in/profile1/)
-- [LinkedIn Profile 2](https://www.linkedin.com/in/profile2/)
-- [LinkedIn Profile 3](https://www.linkedin.com/in/profile3/)
-- [LinkedIn Profile 4](https://www.linkedin.com/in/profile4/)
+- [Brandyn Jackson](https://www.linkedin.com/in/profile1/)
+- [Cathy Chang](https://www.linkedin.com/in/profile2/)
+- [Jonathan Michel](https://www.linkedin.com/in/profile3/)
+- [Tanner Horton](https://www.linkedin.com/in/profile4/)
+- [Victor Pang](https://www.linkedin.com/in/profile4/)
 
 
 ### Forum
