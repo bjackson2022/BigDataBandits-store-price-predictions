@@ -8,8 +8,7 @@
 
 
 ## Introduction - It's all in the data!!
-Having more robust sales forecasting models have become increasingly important within today's businesses in order for them to properly plan and make more informed, data-driven decisions for their future sales, profitability and resourcing goals throughout the current and future years. Through analyzing past sales data inputs, current market trends and other relevant factors, businesses can forecast their future sales and adjust their company strategies accordingly. 
-
+Having more robust sales forecasting models have become increasingly important within today's businesses in order for them to properly plan and make more informed, data-driven decisions for their future sales, profitability and resourcing goals throughout the current and future years. Through analyzing past sales data inputs, current market trends and other relevant factors, businesses can then forecast their future sales and adjust their company strategies accordingly. 
 
 
 ## Project Background
@@ -38,6 +37,12 @@ was tasked with building a machine learning model that predicts the unit sales f
 - Tanner Horton
 - Victor Pang
 
+- [LinkedIn Profile 1](https://www.linkedin.com/in/profile1/)
+- [LinkedIn Profile 2](https://www.linkedin.com/in/profile2/)
+- [LinkedIn Profile 3](https://www.linkedin.com/in/profile3/)
+- [LinkedIn Profile 4](https://www.linkedin.com/in/profile4/)
+
+
 ### Forum
 
-- Georgia Tech Data & Analytics 
+- Georgia Tech Data & Analytics Bootcamp - March 2023
