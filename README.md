@@ -1,12 +1,9 @@
 # BigDataBandits - Ecuadorean Store Sales Forcasting models
 
-<table>
-  <tr.
 <img src="https://raw.githubusercontent.com/bjackson2022/BigDataBandits-store-price-predictions/main/images/Sales%20Forecasting%20image.jpg" width=50% height=50%>
 
 <img src="https://raw.githubusercontent.com/bjackson2022/BigDataBandits-store-price-predictions/main/images/area-comercial-1.jpg" width=50% height=50%>
 
-</table>
 
 <table>
   <tr>
